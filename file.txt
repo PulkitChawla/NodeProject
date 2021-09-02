@@ -1,0 +1,30 @@
+{
+    "name":"Pulkit",
+    "tech":"Nodejs",
+    "sub": "true"
+}
+{
+    "name":"Vikas",
+    "tech":"Java",
+    "sub": "true"
+}
+{
+    "name":"Amit",
+    "tech":"Flutter",
+    "sub": "true"
+}
+{
+    "name":"Abhishek",
+    "tech":"Dart",
+    "sub": "true"
+}
+{
+    "name":"Nikhil",
+    "tech":"Angularjs",
+    "sub": "true"
+}
+{
+    "name":"Priyanks",
+    "tech":"Nodejs",
+    "sub": "true"
+}
